@@ -78,7 +78,7 @@ AI_Document_Builder/
 ![Resume Classic Fresher](assets/resume_classic_fresher.png)
 
 ### Resume (Modern – Professional)
-![Resume Modern Professional](assets/resume_modern_prfoessional.png)
+![Resume Modern Professional](assets/resume_modern_experienced.png)
 
 ### Cover Letter (Professional Template)
 ![Cover Letter Professional](assets/coverletter_professional.png)
