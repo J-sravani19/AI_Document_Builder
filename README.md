@@ -52,7 +52,7 @@ The goal is to simplify professional document creation while maintaining structu
 ---
 
 ## 📂 Project Structure
-
+` ` `
 AI_Document_Builder/
 │
 ├── app.py
@@ -69,7 +69,7 @@ AI_Document_Builder/
 │   ├── portfolio_modern.png
 │   ├── resume_classic_fresher.png
 │   └── resume_modern_prfoessional.png
-
+` ` `
 ---
 
 ## 📸 Sample Outputs
