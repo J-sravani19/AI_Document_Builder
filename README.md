@@ -8,8 +8,7 @@ The system produces downloadable **DOCX and PDF files** and automatically switch
 
 ## 🚀 Live Application
 
-👉 *(Add your Streamlit deployment link here after deployment)*  
-https://your-app-name.streamlit.app
+https://aidocumentbuilder-hma55jhbcy5ubcymopqcyq.streamlit.app/
 
 ---
 
