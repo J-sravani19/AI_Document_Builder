@@ -1,4 +1,4 @@
-import google.generativeai as genai
+from google import genai
 from docx import Document
 from docx.shared import Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -155,4 +155,5 @@ def save_pdf(text, filename):
 
 
     doc.build(elements)
+
 
